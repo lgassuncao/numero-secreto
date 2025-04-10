@@ -1,4 +1,4 @@
-# README: Jogo do Número Secreto
+Jogo do Número Secreto
 
 ## Descrição
 
